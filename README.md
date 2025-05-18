@@ -1,0 +1,1 @@
+# mercado_pago_checkout_template
